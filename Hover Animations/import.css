@@ -1,0 +1,32 @@
+/*hover animation*/
+.wrapper__612a5 .link_ddbb36 /* channels */,
+.container_a48b21 /* members */,
+.channel__0aef5 /* dms */,
+.side_b4b3f6 .item__48dda /* settings */ {
+    transition: margin-left 0.2s ease;
+}
+.wrapper__612a5:hover .link_ddbb36,
+.side_b4b3f6 .item__48dda:hover {
+    margin-left: 10px;
+}
+.container_a48b21:hover,
+.channel__0aef5:hover {
+    margin-left: 18px;
+}
+
+/*hover animation*/
+button.button_ae40a4 /* make user panel buttons round */ {
+    border-radius: 50%;
+}
+.button_ae40a4:last-child /* settings button */, 
+.attachButton__56f98 .attachButtonInner__84c26 /* upload button */,
+.emojiButton_b63c38 .contents__322f4 /* emoji button */,
+.closeButton__8177f /* settings exit button */ {
+    transition: transform 1s ease;
+}
+.button_ae40a4:last-child:hover,
+.attachButton__56f98:hover .attachButtonInner__84c26,
+.emojiButton_b63c38:hover .contents__322f4,
+.closeButton__8177f:hover {
+    transform: rotate(360deg);
+}
