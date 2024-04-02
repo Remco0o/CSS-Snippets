@@ -18,7 +18,6 @@
 button.button_ae40a4 /* make user panel buttons round */ {
     border-radius: 50%;
 }
-.button_ae40a4:last-child /* settings button */, 
 .attachButton__56f98 .attachButtonInner__84c26 /* upload button */,
 .emojiButton_b63c38 .contents__322f4 /* emoji button */,
 .closeButton__8177f /* settings exit button */ {
