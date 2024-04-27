@@ -1,0 +1,5 @@
+button[aria-label="Send a gift"] { display: none; };
+
+// Fix mosaic zoom
+[class^="imageWrapper_"] img[class^="lazyImg"] { object-fit: contain !important; }
+
