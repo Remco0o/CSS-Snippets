@@ -29,7 +29,7 @@
 	padding: 24px 8px 0 16px;
 	height: 40px;
 }
-.chat__52833:has(.membersWrap__5ca6b:not(:hover)) {
+.chat__52833:has(.membersWrap__5ca6b:not(:hover)) .searchBar__5a20a{
 	width: calc(var(--collapsed) - 24px) !important;
 	margin-left: calc(var(--spacing) + 8px);
 }
